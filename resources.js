@@ -2,6 +2,39 @@
 // category (AI & Tools, Design, Prompts, or Guides), url, and icon.
 // The example links below are real external resources, not Moses's own downloads.
 window.RESOURCES = [
+{
+  title: 'Product Site Assets',
+  description: 'Download the product website assets skill.',
+  category: 'Design',
+  url: './downloads/product-site-assets.zip',
+  icon: '◈',
+  label: 'Download ZIP'
+},
+{
+  title: 'Product Site Builder',
+  description: 'Download the product website builder skill.',
+  category: 'AI & Tools',
+  url: './downloads/product-site-builder.zip',
+  icon: '⚡',
+  label: 'Download ZIP'
+},
+{
+  title: 'Product Site Effects',
+  description: 'Download the product website effects skill.',
+  category: 'Design',
+  url: './downloads/product-site-effects.zip',
+  icon: '✦',
+  label: 'Download ZIP'
+},
+{
+  title: 'Product Site QA',
+  description: 'Download the product website QA skill.',
+  category: 'AI & Tools',
+  url: './downloads/product-site-qa.zip',
+  icon: '✓',
+  label: 'Download ZIP'
+},
+
   {title:'Google AI Studio',description:'Experiment with Gemini models, prompts, and prototypes in a browser.',category:'AI & Tools',url:'https://aistudio.google.com/',icon:'✳',label:'Explore tool'},
   {title:'Figma Community',description:'Discover UI kits, plugins, templates, and design files shared by creators.',category:'Design',url:'https://www.figma.com/community',icon:'◈',label:'Browse resources'},
   {title:'Prompting Guide',description:'An open learning resource covering prompt engineering techniques and examples.',category:'Prompts',url:'https://www.promptingguide.ai/',icon:'⌘',label:'Read guide'},
